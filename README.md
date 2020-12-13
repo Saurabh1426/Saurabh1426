@@ -2,12 +2,14 @@
 
 About me:-
 
+- 🔭 I'm currently working on Android developemt and web development.
+
 - 🌱 I’m currently learning android development.
 
-- 💬 Ask me about coding errors and new ideas.
+- 💬 Ask me about Web development .
 
-- 📫 How to reach me: mhatreunique@gmail.com this is my mail.
+- 📫 How to reach me: Instagram : m__i__crazy   Facebook : Saurabh Mhatre
 
-- ⚡ Fun fact: I am just getting started in this.
+- 😄 Pronouns :He/His/Him
 
--->
+- ⚡ Fun fact: I 💖 coding in new ways.
